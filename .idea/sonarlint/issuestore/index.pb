@@ -53,3 +53,15 @@ d
 4order-service/src/main/java/com/app/model/Order.java,3\b\3b829dbfc8f3601b1f8ebfa717ef3dbf7ad26635
 n
 >order-service/src/main/java/com/app/dto/InventoryResponse.java,d\9\d9b11742fab2416d90e0c52d594e07826d3ed646
+l
+<api-gateway/src/main/java/com/app/ApiGatewayApplication.java,f\b\fbaa443329129965d7223118e7f01fa7bec26937
+†
+Vdiscovery-server/src/main/java/com/app/discoveryserver/DiscoveryServerApplication.java,1\7\171c8096dcdf1450dd58fcc0084cc12653f94d44
+C
+api-gateway/pom.xml,2\b\2bfa2b108f2439e99e004f4085b58c22cf995f73
+l
+<api-gateway/src/main/java/com/app/config/SecurityConfig.java,b\6\b60bfc80848132832cccc4d193b3ce557ad1936e
+H
+discovery-server/pom.xml,2\c\2c58c7878e43d126fc56cae853d5b06de57d0b3e
+
+Qdiscovery-server/src/main/java/com/app/discoveryserver/config/SecurityConfig.java,0\e\0eac1b44df7b6cc6ce7a33a8f9be836bdeed8910
